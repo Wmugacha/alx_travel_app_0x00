@@ -1,2 +1,1 @@
-# alx_travel_app_0x00
-DJango Project
+# alx_travel_app
